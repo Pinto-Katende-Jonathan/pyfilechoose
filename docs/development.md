@@ -56,6 +56,20 @@ display and no real window. They cover the logic around the dialog: path
 normalization, the `FileNotFoundError` on cancel, and argument forwarding. The
 `_open_dialog` helper is monkeypatched, so the suite never opens a real dialog.
 
+## Common commands
+
+The repository ships task shortcuts so you do not have to remember the full
+commands. On Windows use `tasks.ps1`; on Linux/macOS use `make`.
+
+| Action | Windows | Linux / macOS |
+| --- | --- | --- |
+| Install with dev + docs extras | `.\tasks.ps1 install` | `make install` |
+| Preview the docs | `.\tasks.ps1 docs-serve` | `make docs-serve` |
+| Build the docs | `.\tasks.ps1 docs-build` | `make docs-build` |
+| Deploy the docs | `.\tasks.ps1 docs-deploy` | `make docs-deploy` |
+| Run the tests | `.\tasks.ps1 test` | `make test` |
+| Build the package | `.\tasks.ps1 build` | `make build` |
+
 ## Building the documentation
 
 The docs are built with [MkDocs](https://www.mkdocs.org/) and the Material
