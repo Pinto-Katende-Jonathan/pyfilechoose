@@ -2,8 +2,8 @@
 
 R's `file.choose()`, reimplemented for Python.
 
-[![PyPI version](https://img.shields.io/pypi/v/pyfilechoose.svg)](https://pypi.org/project/pyfilechoose/)
-[![Python versions](https://img.shields.io/pypi/pyversions/pyfilechoose.svg)](https://pypi.org/project/pyfilechoose/)
+[![PyPI version](https://img.shields.io/pypi/v/pyfilechoose.svg)](https://pypi.org/project/pyfilechoose/0.1.0/)
+[![Python versions](https://img.shields.io/pypi/pyversions/pyfilechoose.svg)](https://pypi.org/project/pyfilechoose/0.1.0/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 In R, `file.choose()` opens a file picker and returns the path you select.
