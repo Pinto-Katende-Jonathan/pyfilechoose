@@ -4,6 +4,7 @@ R's `file.choose()`, reimplemented for Python.
 
 [![PyPI version](https://img.shields.io/pypi/v/pyfilechoose.svg?v=1)](https://pypi.org/project/pyfilechoose/)
 [![Python versions](https://img.shields.io/pypi/pyversions/pyfilechoose.svg?v=1)](https://pypi.org/project/pyfilechoose/)
+[![Documentation](https://img.shields.io/badge/docs-online-blue.svg)](https://Pinto-Katende-Jonathan.github.io/pyfilechoose/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 In R, `file.choose()` opens a file picker and returns the path you select.
@@ -13,8 +14,8 @@ and no leftover Tk windows.
 It uses `tkinter` from the standard library, so it has no third-party
 dependencies.
 
-📖 Full documentation: [`docs/`](docs/index.md) (installation, usage, API
-reference, internals, and troubleshooting).
+📖 Full documentation: **https://Pinto-Katende-Jonathan.github.io/pyfilechoose/**
+(installation, usage, API reference, internals, and troubleshooting).
 
 ## Installation
 

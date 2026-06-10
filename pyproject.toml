@@ -39,6 +39,7 @@ docs = [
 
 [project.urls]
 Homepage = "https://github.com/Pinto-Katende-Jonathan/pyfilechoose"
+Documentation = "https://Pinto-Katende-Jonathan.github.io/pyfilechoose/"
 Repository = "https://github.com/Pinto-Katende-Jonathan/pyfilechoose"
 Issues = "https://github.com/Pinto-Katende-Jonathan/pyfilechoose/issues"
 Changelog = "https://github.com/Pinto-Katende-Jonathan/pyfilechoose/blob/main/CHANGELOG.md"
