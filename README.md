@@ -13,6 +13,9 @@ and no leftover Tk windows.
 It uses `tkinter` from the standard library, so it has no third-party
 dependencies.
 
+📖 Full documentation: [`docs/`](docs/index.md) (installation, usage, API
+reference, internals, and troubleshooting).
+
 ## Installation
 
 With pip:
