@@ -33,10 +33,10 @@ dependencies = []
 dev = ["pytest>=7.0"]
 
 [project.urls]
-Homepage = "https://github.com/katendepinto/pyfilechoose"
-Repository = "https://github.com/katendepinto/pyfilechoose"
-Issues = "https://github.com/katendepinto/pyfilechoose/issues"
-Changelog = "https://github.com/katendepinto/pyfilechoose/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/Pinto-Katende-Jonathan/pyfilechoose"
+Repository = "https://github.com/Pinto-Katende-Jonathan/pyfilechoose"
+Issues = "https://github.com/Pinto-Katende-Jonathan/pyfilechoose/issues"
+Changelog = "https://github.com/Pinto-Katende-Jonathan/pyfilechoose/blob/main/CHANGELOG.md"
 
 [tool.setuptools.packages.find]
 where = ["src"]
