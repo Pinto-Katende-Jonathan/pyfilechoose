@@ -9,4 +9,4 @@ Open a native file-selection dialog and get back an absolute path:
 from .core import file_choose, files_choose
 
 __all__ = ["file_choose", "files_choose"]
-__version__ = "0.1.0"
+__version__ = "0.1.1"
